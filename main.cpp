@@ -5,9 +5,6 @@
 #include <sstream>
 using namespace std;
 
-//I collaborated with mentors Shehzad and Chanta along with a few other students in the mentor room.
-//Additionally, I referenced the class' textbook "Data Structures using C++ by DS Malik"
-
 struct bTreeNode{
 	int size;
 	int* data;
